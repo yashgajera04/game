@@ -3,7 +3,7 @@ game projects easy to hard
 
 ## Beginner Projects (Easy)
 1.	2D Pong – Simple physics-based paddle and ball game.->https://yashgajera0486.itch.io/pong2d
-2.	Brick Breaker – Classic arcade game with bricks and a bouncing ball.
+2.	Brick Breaker – Classic arcade game with bricks and a bouncing ball.->https://yashgajera0486.itch.io/brickbreakers
 3.	Endless Runner – Character running with obstacles.->https://yashgajera0486.itch.io/devils-runs
 4.	Top-Down Shooter – Simple twin-stick shooter with basic AI.
 5.	Tic-Tac-Toe – Simple turn-based game with AI or multiplayer.
